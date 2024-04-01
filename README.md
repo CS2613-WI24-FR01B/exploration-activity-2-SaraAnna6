@@ -36,8 +36,7 @@
       SUPERSAFEPASSWORD
 
       Corresponding hashed_passwords:
-      {
- "0": {
+      { "0": {
   "8": "$2b$08$F1CFTSdsmg8QfGMGw1TbG.XRYNAeunKo9dV5JWuew4aBpTK5LXBjO",
   "10": "$2b$10$C6UUPWQTj9Qwf2xZ0GVgdekrGhtxUKjpOUUh7PWomAr8V24v.i586",
   "12": "$2b$12$54MylvtIIDkpIR6RjVZnmelLxe.ohqKsO1JzeA1SF8oTh/iTH57/W"
